@@ -21,9 +21,9 @@ const products = [
     { id: 1, name: "Biquíni Tropical", price: 129.90, category: "banho", img: "imagens/biquini.webp", brand: "Água de Coco", stock: 10, sold: 0 },
     { id: 2, name: "Maiô Verão", price: 149.90, category: "banho", img: "imagens/maio.jpg", brand: "Caju Brasil", stock: 12, sold: 0 },
     { id: 3, name: "Saída de Praia Floral", price: 99.90, category: "saidas", img: "imagens/saida.webp", brand: "Ana Hickmann", stock: 4, sold: 0 },
-    { id: 4, name: "Chinelo Praia", price: 49.90, category: "calcados", img: "imagens/birkenstock.webp", brand: "Birkenstock", stock: 20, sold: 0 },
-    { id: 5, name: "Óculos de Sol", price: 79.90, category: "acessorios", img: "imagens/oculos.webp", brand: "Ray-Ban", stock: 8, sold: 0 },
-    { id: 6, name: "Short Estampa", price: 79.90, category: "banho", img: "imagens/shortrl.webp", brand: "Polo Ralph Lauren", stock: 15, sold: 0 }
+    { id: 4, name: "Chinelo Praia", price: 349.90, category: "calcados", img: "imagens/birkenstock.webp", brand: "Birkenstock", stock: 20, sold: 0 },
+    { id: 5, name: "Óculos de Sol", price: 200.00, category: "acessorios", img: "imagens/oculos.webp", brand: "Ray-Ban", stock: 8, sold: 0 },
+    { id: 6, name: "Short Estampa", price: 159.90, category: "banho", img: "imagens/shortrl.webp", brand: "Polo Ralph Lauren", stock: 15, sold: 0 }
 ];
 
 const ESTOQUE_MINIMO = 5;

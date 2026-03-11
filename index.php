@@ -30,13 +30,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>GLS - Moda Praia</title>
+    <title>GLS Summer</title>
     <link rel="stylesheet" href="gls1.css">
 </head>
 <body>
 
 <header>
-    <img src="GLS.png" alt="Logotipo da empresa" width="300">
+    <img src="imagens/logo2.png" width="70">
 
     <nav>
         <button onclick="showSection('categorias')">Categorias</button>
