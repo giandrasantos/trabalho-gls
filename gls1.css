@@ -17,7 +17,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 15px 40px;
-    background: linear-gradient(to right, #ff7eb3, #ff758c);
+    background: linear-gradient(to right, #7eb2ff, #b0d0ff);
     color: white;
 }
 
@@ -26,7 +26,7 @@ nav button {
     padding: 8px 14px;
     border: none;
     background-color: white;
-    color: red;
+    color: rgb(1, 8, 69);
     border-radius: 20px;
     cursor: pointer;
     font-weight: bold;
@@ -43,8 +43,8 @@ nav button:hover {
 
 /* HERO */
 .hero {
-    height: 100%;
-    background: linear-gradient(rgba(255, 118, 140, 0.6), rgba(255, 126, 179, 0.6)),
+    height: 80vh;
+    background: linear-gradient(rgba(148, 217, 249, 0.6), rgba(103, 197, 255, 0.6)),
                 url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e') center/cover;
     display: flex;
     flex-direction: column;
@@ -66,7 +66,7 @@ nav button:hover {
 /* BOTÕES */
 .btn-main {
     padding: 10px 20px;
-    background-color: #ff4f81;
+    background-color: #7eb2ff;
     color: white;
     border: none;
     border-radius: 25px;
@@ -75,7 +75,7 @@ nav button:hover {
 }
 
 .btn-main:hover {
-    background-color: #ff2e6a;
+    background-color: #7eb2ff;
 }
 
 /* SECTIONS */
@@ -117,7 +117,7 @@ section {
     padding: 8px 15px;
     border-radius: 20px;
     border: none;
-    background-color: #ff7eb3;
+    background-color: #7eb2ff;
     color: white;
     cursor: pointer;
 }
@@ -167,7 +167,7 @@ section {
 }
 
 .badge-esgotado {
-    background: red;
+    background: rgb(1, 8, 69);
     color: white;
     padding: 5px;
     position: absolute;
